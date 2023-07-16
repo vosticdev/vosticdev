@@ -1,16 +1,83 @@
-### Hi there 👋
+<p align = center ><img src="https://imgur.com/J1O8SnB.png"> </p>
 
-<!--
-**reals1lent/reals1lent** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<div>
 
-Here are some ideas to get you started:
+<img align="left" width="270" alt="realnaith" src="https://imgur.com/Yc1UuTx.png"/>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<h2>About me</h2>
+  
+Hi, I'm **silenth**.
+<br>
+Experienced with a wide variety of creative tools and technical skills.
+<br>
+Enjoying developing new things that don't exist, providing clients with complete quality - nothing less.
+
+💻 **Web/Software Developer**
+<br>
+📚 currently attend on **ITAcademy**
+<br>
+📝 speak and write Serbian(native), English and Russian.
+<br>
+
+<h2>Skills</h2>
+
+<br><br><br>
+
+- **Frontend**
+
+  <img src = "https://img.shields.io/static/v1?style=for-the-badge&message=HTML5&color=E34F26&logo=HTML5&logoColor=FFFFFF&label=" alt = "html" />
+  <img src = "https://img.shields.io/static/v1?style=for-the-badge&message=CSS3&color=1572B6&logo=CSS3&logoColor=FFFFFF&label=" alt = "css" />
+  <img src = "https://img.shields.io/static/v1?style=for-the-badge&message=JavaScript&color=222222&logo=JavaScript&logoColor=F7DF1E&label=" alt = "javascript" />
+  <img src = "https://img.shields.io/static/v1?style=for-the-badge&message=Angular&color=DD0031&logo=Angular&logoColor=FFFFFF&label=" alt = "angular" />
+  <img src = "https://img.shields.io/static/v1?style=for-the-badge&message=Vue.js&color=222222&logo=Vue.js&logoColor=4FC08D&label=" alt = "vuejs" />
+  <img src = "https://img.shields.io/static/v1?style=for-the-badge&message=React&color=222222&logo=React&logoColor=61DAFB&label=" alt = "reactjs" />
+
+- **Backend**
+
+  <img src = "https://img.shields.io/static/v1?style=for-the-badge&message=Node.js&color=339933&logo=Node.js&logoColor=FFFFFF&label=" alt = "nodejs" />
+  <img src = "https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB" alt = "expressjs" />
+  <img src = "https://img.shields.io/static/v1?style=for-the-badge&message=NestJS&color=E0234E&logo=NestJS&logoColor=FFFFFF&label=" alt = "nestjs" />
+  <img src = "https://img.shields.io/static/v1?style=for-the-badge&message=PHP&color=777BB4&logo=PHP&logoColor=FFFFFF&label=" alt = "php" />
+  <img src = "https://img.shields.io/static/v1?style=for-the-badge&message=Laravel&color=FF2D20&logo=Laravel&logoColor=FFFFFF&label=" alt = "laravel" />
+  <img src = "https://img.shields.io/static/v1?style=for-the-badge&message=C&color=222222&logo=C&logoColor=A8B9CC&label=" alt = "clang" />
+  <img src = "https://img.shields.io/static/v1?style=for-the-badge&message=C%2B%2B&color=00599C&logo=C%2B%2B&logoColor=FFFFFF&label=" alt = "cpp" />
+  <img src = "https://img.shields.io/static/v1?style=for-the-badge&message=C+Sharp&color=239120&logo=C+Sharp&logoColor=FFFFFF&label=" alt = "csharp" />
+
+  - <h5>Currently Learning<h5>
+    <img src = "https://img.shields.io/static/v1?style=for-the-badge&message=TypeScript&color=3178C6&logo=TypeScript&logoColor=FFFFFF&label=" alt = "typescript" />
+
+- **Database**
+
+  <img src = "https://img.shields.io/static/v1?style=for-the-badge&message=MySQL&color=4479A1&logo=MySQL&logoColor=FFFFFF&label=" alt = "mysql" />
+  <img src = "https://img.shields.io/static/v1?style=for-the-badge&message=MongoDB&color=47A248&logo=MongoDB&logoColor=FFFFFF&label=" alt = "mongodb" />
+  <img src = "https://img.shields.io/static/v1?style=for-the-badge&message=MariaDB&color=003545&logo=MariaDB&logoColor=FFFFFF&label=" alt = "mariadb" />
+
+- **Software**
+
+  <img src = "https://img.shields.io/static/v1?style=for-the-badge&message=Visual+Studio&color=5C2D91&logo=Visual+Studio&logoColor=FFFFFF&label=" alt = "visualstudio" />
+  <img src = "https://img.shields.io/static/v1?style=for-the-badge&message=Visual+Studio+Code&color=007ACC&logo=Visual+Studio+Code&logoColor=FFFFFF&label=" alt = "vscode" />
+  <img src = "https://img.shields.io/static/v1?style=for-the-badge&message=Adobe+Photoshop&color=31A8FF&logo=Adobe+Photoshop&logoColor=FFFFFF&label=" alt = "photoshop" />
+  <img src = "https://img.shields.io/static/v1?style=for-the-badge&message=Cinema+4D&color=011A6A&logo=Cinema+4D&logoColor=FFFFFF&label=" alt = "cinema4d" />
+
+- **Other**
+
+  <img src = "https://img.shields.io/static/v1?style=for-the-badge&message=Windows&color=0078D6&logo=Windows&logoColor=FFFFFF&label=" alt = "windows" />
+  <img src = "https://img.shields.io/static/v1?style=for-the-badge&message=Linux&color=222222&logo=Linux&logoColor=FCC624&label=" alt = "linux" />
+  <img src = "https://img.shields.io/static/v1?style=for-the-badge&message=Git&color=F05032&logo=Git&logoColor=FFFFFF&label=" alt = "git" />
+
+</br></br>
+
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=reals1lent&show_icons=true&locale=en&layout=compact&theme=radical" alt="reals1lent" /></p> 
+
+<p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=reals1lent&&theme=radical" alt="reals1lent" /></p>
+
+</br></br>
+
+<a href="https://www.instagram.com/reals1lent/"><img src="https://img.shields.io/static/v1?style=for-the-badge&message=Instagram&color=E4405F&logo=Instagram&logoColor=FFFFFF&label=" alt="instagram"></a>
+<a href="https://www.facebook.com/reals1lent"><img src="https://img.shields.io/static/v1?style=for-the-badge&message=Facebook&color=1877F2&logo=Facebook&logoColor=FFFFFF&label=" alt="twitter"></a>
+<a href="https://www.youtube.com/@reals1lent"><img src="https://img.shields.io/static/v1?style=for-the-badge&message=YouTube&color=FF0000&logo=YouTube&logoColor=FFFFFF&label=" alt="youtube"></a>
+
+</div>
+
+------
+credits: [reals1lent](https://github.com/reals1lent)
