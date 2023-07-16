@@ -21,7 +21,7 @@ Enjoying developing new things that don't exist, providing clients with complete
 
 <h2>Skills</h2>
 
-<br><br><br>
+<br>
 
 - **Frontend**
 
