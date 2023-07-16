@@ -45,7 +45,8 @@ Enjoying developing new things that don't exist, providing clients with complete
 
   - <h5>Currently Learning<h5>
     <img src = "https://img.shields.io/static/v1?style=for-the-badge&message=TypeScript&color=3178C6&logo=TypeScript&logoColor=FFFFFF&label=" alt = "typescript" />
-    <img src = "https://img.shields.io/static/v1?style=for-the-badge&message=GoLand&color=000000&logo=GoLand&logoColor=FFFFFF&label=" alt = "golang" />
+    <img src = "https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white" alt = "golang" />
+    <img src = "https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white" alt = "java" />
 
 - **Database**
 
