@@ -6,7 +6,7 @@
 
 <h2>About me</h2>
   
-Hi, I'm **silenth**.
+Hi, I'm **silent**.
 <br>
 Experienced with a wide variety of creative tools and technical skills.
 <br>
