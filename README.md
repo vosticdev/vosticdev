@@ -7,7 +7,7 @@
 <h2>About me</h2>
   
 Hi, I'm **Vostic**.
-<br>
+<br><br>
 Experienced with a wide variety of creative tools and technical skills.
 <br>
 Enjoying developing new things that don't exist, providing clients with complete quality - nothing less.
