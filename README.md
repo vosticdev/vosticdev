@@ -28,14 +28,12 @@ Enjoying developing new things that don't exist, providing clients with complete
   <img src = "https://img.shields.io/static/v1?style=for-the-badge&message=HTML5&color=E34F26&logo=HTML5&logoColor=FFFFFF&label=" alt = "html" />
   <img src = "https://img.shields.io/static/v1?style=for-the-badge&message=CSS3&color=1572B6&logo=CSS3&logoColor=FFFFFF&label=" alt = "css" />
   <img src = "https://img.shields.io/static/v1?style=for-the-badge&message=JavaScript&color=222222&logo=JavaScript&logoColor=F7DF1E&label=" alt = "javascript" />
-  <img src = "https://img.shields.io/static/v1?style=for-the-badge&message=Angular&color=DD0031&logo=Angular&logoColor=FFFFFF&label=" alt = "angular" />
   <img src = "https://img.shields.io/static/v1?style=for-the-badge&message=Vue.js&color=222222&logo=Vue.js&logoColor=4FC08D&label=" alt = "vuejs" />
   <img src = "https://img.shields.io/static/v1?style=for-the-badge&message=React&color=222222&logo=React&logoColor=61DAFB&label=" alt = "reactjs" />
 
 - **Backend**
 
   <img src = "https://img.shields.io/static/v1?style=for-the-badge&message=Node.js&color=339933&logo=Node.js&logoColor=FFFFFF&label=" alt = "nodejs" />
-  <img src = "https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB" alt = "expressjs" />
   <img src = "https://img.shields.io/static/v1?style=for-the-badge&message=Lua&color=2C2D72&logo=Lua&logoColor=FFFFFF&label=" alt = "lua" />
   <img src = "https://img.shields.io/static/v1?style=for-the-badge&message=PHP&color=777BB4&logo=PHP&logoColor=FFFFFF&label=" alt = "php" />
   <img src = "https://img.shields.io/static/v1?style=for-the-badge&message=Laravel&color=FF2D20&logo=Laravel&logoColor=FFFFFF&label=" alt = "laravel" />
@@ -59,7 +57,6 @@ Enjoying developing new things that don't exist, providing clients with complete
   <img src = "https://img.shields.io/static/v1?style=for-the-badge&message=Visual+Studio&color=5C2D91&logo=Visual+Studio&logoColor=FFFFFF&label=" alt = "visualstudio" />
   <img src = "https://img.shields.io/static/v1?style=for-the-badge&message=Visual+Studio+Code&color=007ACC&logo=Visual+Studio+Code&logoColor=FFFFFF&label=" alt = "vscode" />
   <img src = "https://img.shields.io/static/v1?style=for-the-badge&message=Adobe+Photoshop&color=31A8FF&logo=Adobe+Photoshop&logoColor=FFFFFF&label=" alt = "photoshop" />
-  <img src = "https://img.shields.io/static/v1?style=for-the-badge&message=Cinema+4D&color=011A6A&logo=Cinema+4D&logoColor=FFFFFF&label=" alt = "cinema4d" />
 
 - **Other**
 
@@ -69,17 +66,15 @@ Enjoying developing new things that don't exist, providing clients with complete
 
 </br></br>
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=reals1lent&show_icons=true&locale=en&layout=compact&theme=radical" alt="reals1lent" /></p> 
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=vosticdev&show_icons=true&locale=en&layout=compact&theme=radical" alt="vosticdev" /></p> 
 
-<p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=reals1lent&&theme=radical" alt="reals1lent" /></p>
+<p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=vosticdev&&theme=radical" alt="vosticdev" /></p>
 
 </br></br>
 
-<a href="https://www.instagram.com/reals1lent/"><img src="https://img.shields.io/static/v1?style=for-the-badge&message=Instagram&color=E4405F&logo=Instagram&logoColor=FFFFFF&label=" alt="instagram"></a>
-<a href="https://www.facebook.com/reals1lent"><img src="https://img.shields.io/static/v1?style=for-the-badge&message=Facebook&color=1877F2&logo=Facebook&logoColor=FFFFFF&label=" alt="twitter"></a>
-<a href="https://www.youtube.com/@reals1lent"><img src="https://img.shields.io/static/v1?style=for-the-badge&message=YouTube&color=FF0000&logo=YouTube&logoColor=FFFFFF&label=" alt="youtube"></a>
+<a href="https://www.instagram.com/_vostic/"><img src="https://img.shields.io/static/v1?style=for-the-badge&message=Instagram&color=E4405F&logo=Instagram&logoColor=FFFFFF&label=" alt="instagram"></a>
 
 </div>
 
 ------
-credits: [reals1lent](https://github.com/reals1lent)
+credits: [vosticdev](https://github.com/vosticdev)
