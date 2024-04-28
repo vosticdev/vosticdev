@@ -2,7 +2,7 @@
 
 <div>
 
-<img align="left" width="270" alt="realnaith" src="https://imgur.com/Yc1UuTx.png"/>
+<img align="left" width="270" alt="realnaith" src="https://i.ibb.co/ZLbYS41/ss.png"/>
 
 <h2>About me</h2>
   
