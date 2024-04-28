@@ -1,4 +1,4 @@
-<p align = center ><img src="https://i.imgur.com/xDnVOOT.png"> </p>
+<p align = center ><img src="https://i.ibb.co/4Z8vMQy/vosticdev.png"> </p>
 
 <div>
 
@@ -6,7 +6,7 @@
 
 <h2>About me</h2>
   
-Hi, I'm **silent**.
+Hi, I'm **Vostic**.
 <br>
 Experienced with a wide variety of creative tools and technical skills.
 <br>
