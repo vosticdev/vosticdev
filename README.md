@@ -1,5 +1,3 @@
-<p align = center ><img src="https://i.ibb.co/4Z8vMQy/vosticdev.png"> </p>
-
 <div>
 
 <img align="left" width="270" alt="vosticdev" src="https://i.ibb.co/ZLbYS41/ss.png"/>
