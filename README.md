@@ -1,5 +1,5 @@
 <div>
-
+<br>
 <img align="left" width="270" alt="vosticdev" src="https://i.ibb.co/ZLbYS41/ss.png"/>
 
 <h2>About me</h2>
