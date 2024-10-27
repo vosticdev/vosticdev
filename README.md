@@ -14,7 +14,7 @@ Enjoying developing new things that don't exist, providing clients with complete
 
 💻 **Web/Software Developer**
 <br>
-📚 currently attend on **ITAcademy**
+📚 Finished **ITAcademy**
 <br>
 📝 speak and write Serbian(native), English and Russian.
 <br>
