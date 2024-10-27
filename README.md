@@ -3,7 +3,7 @@
 
 <h2>About me</h2>
   
-Hi, I'm **Vostic**.
+Hello, I'm **Vostic**.
 <br><br>
 Experienced with a wide variety of creative tools and technical skills.
 <br>
