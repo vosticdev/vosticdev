@@ -1,10 +1,10 @@
 <div>
-<img align="left" height="160" width="90" alt="vosticdev" src="https://i.imgur.com/uou9YGC.jpeg"/>
+<img align="left" height="224" width="126" alt="vosticdev" src="https://i.imgur.com/uou9YGC.jpeg"/>
 
 <h2>About me</h2>
   
 Hello, I'm **Vostic**.
-<br><br>
+<br><br><br><br>
 Experienced with a wide variety of creative tools and technical skills.
 <br>
 Enjoying developing new things that don't exist, providing clients with complete quality - nothing less.
