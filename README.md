@@ -2,8 +2,9 @@
 
 💻 **Full-Stack Developer** | 🔐 **Cyber Security Enthusiast** | 🖥️ **Linux & Windows System Administrator**  
 
-I enjoy building scalable applications, securing systems, and managing infrastructure.  
-Passionate about **web development, cybersecurity, and system automation**.  
+I build secure, scalable, and user-friendly applications.  
+Not limited to one stack — I use the **right tool for the job**.  
+Currently exploring **Go** and building solutions with **Node.js / Next.js**.  
 
 ---
 
@@ -14,8 +15,10 @@ Passionate about **web development, cybersecurity, and system automation**.
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)  
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)  
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)  
+![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)  
 ![Vue.js](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D)  
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)  
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)  
 
 ### 🗄️ Databases & Backend  
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)  
@@ -36,7 +39,7 @@ Passionate about **web development, cybersecurity, and system automation**.
 ---
 
 ## 🚀 Featured Projects
-- 🌐 **Landing Page Collection** → Modern, responsive templates with Vue + Tailwind  
+- 🌐 **Landing Page Collection** → Modern, responsive templates with Vue / React / Next.js  
 - 🔧 **System Monitoring Tool** → Resource & service monitoring on Linux servers  
 - 📊 **Expense Tracker App** → Personal finance with authentication & charts  
 - 🔐 **CyberSec Utilities** → Small tools for security testing & automation  
