@@ -1,77 +1,61 @@
-<div>
-<img align="left" height="224" width="126" alt="vosticdev" src="https://i.imgur.com/uou9YGC.jpeg"/>
+# 👋 Hi, I'm Milorad
 
-<h2>About me</h2>
-  
-Hello, I'm **Vostic**.
-<br><br>
-Experienced with a wide variety of creative tools and technical skills.
-<br>
-Enjoying developing new things that don't exist, providing clients with complete quality - nothing less.
+💻 **Full-Stack Developer** | 🔐 **Cyber Security Enthusiast** | 🖥️ **Linux & Windows System Administrator**  
 
-💻 **Web/Software Developer**
-<br>
-📚 Finished **ITAcademy**
-<br>
-📝 speak and write Serbian(native), English and Russian.
-<br>
+I enjoy building scalable applications, securing systems, and managing infrastructure.  
+Passionate about **web development, cybersecurity, and system automation**.  
 
-<h2>Skills</h2>
+---
 
-<br>
+## 🛠️ Tech Stack
 
-- **Frontend**
+### 🚀 Languages & Frameworks  
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)  
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)  
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)  
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)  
+![Vue.js](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D)  
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)  
 
-  <img src = "https://img.shields.io/static/v1?style=for-the-badge&message=HTML5&color=E34F26&logo=HTML5&logoColor=FFFFFF&label=" alt = "html" />
-  <img src = "https://img.shields.io/static/v1?style=for-the-badge&message=CSS3&color=1572B6&logo=CSS3&logoColor=FFFFFF&label=" alt = "css" />
-  <img src = "https://img.shields.io/static/v1?style=for-the-badge&message=JavaScript&color=222222&logo=JavaScript&logoColor=F7DF1E&label=" alt = "javascript" />
-  <img src = "https://img.shields.io/static/v1?style=for-the-badge&message=Vue.js&color=222222&logo=Vue.js&logoColor=4FC08D&label=" alt = "vuejs" />
-  <img src = "https://img.shields.io/static/v1?style=for-the-badge&message=React&color=222222&logo=React&logoColor=61DAFB&label=" alt = "reactjs" />
+### 🗄️ Databases & Backend  
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)  
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)  
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)  
+![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)  
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)  
 
-- **Backend**
+### ⚙️ DevOps & Security  
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)  
+![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)  
+![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)  
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)  
+![Nginx](https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white)  
+![Apache](https://img.shields.io/badge/Apache-D22128?style=for-the-badge&logo=apache&logoColor=white)  
+![Cyber Security](https://img.shields.io/badge/Cyber_Security-2E3440?style=for-the-badge&logo=hackaday&logoColor=white)  
 
-  <img src = "https://img.shields.io/static/v1?style=for-the-badge&message=Node.js&color=339933&logo=Node.js&logoColor=FFFFFF&label=" alt = "nodejs" />
-  <img src = "https://img.shields.io/static/v1?style=for-the-badge&message=Lua&color=2C2D72&logo=Lua&logoColor=FFFFFF&label=" alt = "lua" />
-  <img src = "https://img.shields.io/static/v1?style=for-the-badge&message=PHP&color=777BB4&logo=PHP&logoColor=FFFFFF&label=" alt = "php" />
-  <img src = "https://img.shields.io/static/v1?style=for-the-badge&message=Laravel&color=FF2D20&logo=Laravel&logoColor=FFFFFF&label=" alt = "laravel" />
-  <img src = "https://img.shields.io/static/v1?style=for-the-badge&message=C&color=222222&logo=C&logoColor=A8B9CC&label=" alt = "clang" />
-  <img src = "https://img.shields.io/static/v1?style=for-the-badge&message=C%2B%2B&color=00599C&logo=C%2B%2B&logoColor=FFFFFF&label=" alt = "cpp" />
-  <img src = "https://img.shields.io/static/v1?style=for-the-badge&message=C+Sharp&color=239120&logo=C+Sharp&logoColor=FFFFFF&label=" alt = "csharp" />
+---
 
-  - <h5>Currently Learning<h5>
-    <img src = "https://img.shields.io/static/v1?style=for-the-badge&message=TypeScript&color=3178C6&logo=TypeScript&logoColor=FFFFFF&label=" alt = "typescript" />
-    <img src = "https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white" alt = "golang" />
-    <img src = "https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white" alt = "java" />
+## 🚀 Featured Projects
+- 🌐 **Landing Page Collection** → Modern, responsive templates with Vue + Tailwind  
+- 🔧 **System Monitoring Tool** → Resource & service monitoring on Linux servers  
+- 📊 **Expense Tracker App** → Personal finance with authentication & charts  
+- 🔐 **CyberSec Utilities** → Small tools for security testing & automation  
 
-- **Database**
+👉 See more in my [repositories](https://github.com/vosticdev?tab=repositories).
 
-  <img src = "https://img.shields.io/static/v1?style=for-the-badge&message=MySQL&color=4479A1&logo=MySQL&logoColor=FFFFFF&label=" alt = "mysql" />
-  <img src = "https://img.shields.io/static/v1?style=for-the-badge&message=MongoDB&color=47A248&logo=MongoDB&logoColor=FFFFFF&label=" alt = "mongodb" />
-  <img src = "https://img.shields.io/static/v1?style=for-the-badge&message=MariaDB&color=003545&logo=MariaDB&logoColor=FFFFFF&label=" alt = "mariadb" />
+---
 
-- **Software**
+## 📊 GitHub Stats
+![Milorad's GitHub stats](https://github-readme-stats.vercel.app/api?username=vosticdev&show_icons=true&theme=radical)  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vosticdev&layout=compact&theme=radical)  
 
-  <img src = "https://img.shields.io/static/v1?style=for-the-badge&message=Visual+Studio&color=5C2D91&logo=Visual+Studio&logoColor=FFFFFF&label=" alt = "visualstudio" />
-  <img src = "https://img.shields.io/static/v1?style=for-the-badge&message=Visual+Studio+Code&color=007ACC&logo=Visual+Studio+Code&logoColor=FFFFFF&label=" alt = "vscode" />
-  <img src = "https://img.shields.io/static/v1?style=for-the-badge&message=Adobe+Photoshop&color=31A8FF&logo=Adobe+Photoshop&logoColor=FFFFFF&label=" alt = "photoshop" />
+---
 
-- **Other**
+## 📫 Connect with Me
+🌍 Website: [nordcappe.com](https://nordcappe.com/)  
+📧 Email: vosticdev@gmail.com  
+📱 Phone: +381 61 1515689  
 
-  <img src = "https://img.shields.io/static/v1?style=for-the-badge&message=Windows&color=0078D6&logo=Windows&logoColor=FFFFFF&label=" alt = "windows" />
-  <img src = "https://img.shields.io/static/v1?style=for-the-badge&message=Linux&color=222222&logo=Linux&logoColor=FCC624&label=" alt = "linux" />
-  <img src = "https://img.shields.io/static/v1?style=for-the-badge&message=Git&color=F05032&logo=Git&logoColor=FFFFFF&label=" alt = "git" />
+---
 
-</br></br>
-
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=vosticdev&show_icons=true&locale=en&layout=compact&theme=radical" alt="vosticdev" /></p> 
-
-<p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=vosticdev&&theme=radical" alt="vosticdev" /></p>
-
-</br></br>
-
-<a href="https://www.instagram.com/_vostic/"><img src="https://img.shields.io/static/v1?style=for-the-badge&message=Instagram&color=E4405F&logo=Instagram&logoColor=FFFFFF&label=" alt="instagram"></a>
-
-</div>
-
-------
-credits: [vosticdev](https://github.com/vosticdev)
+⭐️ *"Turning ideas into secure, scalable, and user-friendly solutions."*
