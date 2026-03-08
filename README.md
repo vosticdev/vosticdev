@@ -6,7 +6,7 @@
 
 💻 Full-Stack Developer &nbsp;|&nbsp; 🔐 Cyber Security Enthusiast &nbsp;|&nbsp; 🖥️ Linux & Windows Sysadmin
 
-*Building secure, scalable, and user-friendly solutions — using the right tool for the job.*
+*Building secure, scalable, and user-friendly solutions - using the right tool for the job.*
 
 [![Website](https://img.shields.io/badge/nordcappe.com-009639?style=for-the-badge&logo=safari&logoColor=white)](https://nordcappe.com/)
 [![Email](https://img.shields.io/badge/vosticdev%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:vosticdev@gmail.com)
